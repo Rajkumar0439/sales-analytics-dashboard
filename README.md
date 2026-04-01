@@ -104,7 +104,7 @@ Raw Excel File → Python Cleaning → CSV Export → Power BI Dashboard
 
 ## 📊 Dashboard Preview
 
-![Sales Dashboard](dashboard_preview.png)
+![Sales Dashboard](sales_analysis.png)
 
 ---
 
